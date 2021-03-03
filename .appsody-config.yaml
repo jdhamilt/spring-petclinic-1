@@ -1,3 +1,3 @@
 id: "20210303181317.60227600"
-project-name: kabanero
-stack: docker.io/appsody/java-spring-boot2:0.3
+project-name: default
+stack: docker.io/kabanero/java-spring-boot2:0.3
